@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **biswarup14/biswarup14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/biswarup14/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=biswarup14&theme=<THEME_NAME>" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswarup14)](https://github.com/anuraghazra/github-readme-stats)
