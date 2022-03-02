@@ -1,7 +1,7 @@
 ### Hello 👋
 - 🌱 I’m currently into Web Development also interested in Machine Learning.
 - 💁🏻 4th Year CSE-2022 Student @Narula Institute of Technology Agarpara,Kolkata
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
 <!--
 **biswarup14/biswarup14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
