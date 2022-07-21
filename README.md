@@ -1,6 +1,6 @@
 ### Hello 👋
 - 🌱 I’m currently into Web Development also interested in Machine Learning.
-- 💁🏻 4th Year CSE-2022 Student @Narula Institute of Technology Agarpara,Kolkata
+- 💁🏻 Graduated from CSE-2022 @Narula Institute of Technology Agarpara,Kolkata
 
 <!--
 **biswarup14/biswarup14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
