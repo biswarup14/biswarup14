@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/biswarup-bhattacharjee-2a836019a/"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> 😊</em>
-
 <a href="https://github.com/biswarup14">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biswarup14&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswarup14&theme=buefy&layout=compact" />
