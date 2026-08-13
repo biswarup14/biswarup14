@@ -10,9 +10,9 @@
   </a>
 </h1>
 <h1 align="center">
-  <a href="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-    </a>
+    
 </h1>
 ---
 
