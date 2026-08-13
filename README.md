@@ -7,7 +7,7 @@
 
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Biswarup;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Biswarup;Software+Developer+GenAI;Interested+in+Web+Development)](https://git.io/typing-svg)
 
 </h1>
 
