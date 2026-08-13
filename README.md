@@ -6,9 +6,7 @@
 <!-- Live Animated Typing Header -->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Biswarup+👋;Software+Engineer;Machine+Learning+%26+Distributed+Systems" alt="Typing SVG" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Biswarup;Second+line+of+text)](https://git.io/typing-svg)
 </h1>
 
 ## 📊 Analytics & Metrics (Bulletproof Dynamic Badges)
