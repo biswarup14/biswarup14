@@ -6,7 +6,9 @@
 <!-- Live Animated Typing Header -->
 
 <h1 align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Biswarup;Second+line+of+text)](https://git.io/typing-svg)
+
 </h1>
 
 ## 📊 Analytics & Metrics (Bulletproof Dynamic Badges)
