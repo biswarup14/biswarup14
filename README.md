@@ -1,24 +1,69 @@
-### Hello 👋
-- 🌱 I’m currently into Web Development also interested in Machine Learning.
-- 💁🏻 Graduated from CSE-2022 @Narula Institute of Technology Agarpara,Kolkata
+<!-- Animated Waving Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20Biswarup's%20Hub!&fontSize=38&animation=fadeIn&fontColor=fff" width="100%" />
+</p>
 
-<!--
-**biswarup14/biswarup14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Typing Text -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Biswarup+👋;Software+Engineer;Passionate+about+Machine+Learning;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
+  <b>Software Developer</b> focused on building high-performance systems, enterprise applications, and exploring data intelligence.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<a href="https://github.com/biswarup14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biswarup14&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswarup14&theme=buefy&layout=compact" />
-</a>
+## 🛠️ Tech Stack & Tools
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,git,github,vscode,postgres,mongodb,docker&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics & Profile Stats
+
+<p align="center">
+  <!-- GitHub Overall Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biswarup14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+  
+  <!-- Top Languages Used -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswarup14&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <!-- Commit Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswarup14&theme=tokyonight&hide_border=false" alt="Biswarup's Streak" />
+</p>
+
+---
+
+## 🌟 Stars, Commits & Activity Overview
+
+<p align="center">
+  <!-- Total Stars & Commits Badges -->
+  <img src="https://img.shields.io/github/stars/biswarup14?style=for-the-badge&color=gold&logo=github" />
+  <img src="https://img.shields.io/github/followers/biswarup14?style=for-the-badge&color=blue&logo=github" />
+</p>
+
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="https://github-profile-3d-contrib.puppetmaster.zhaoll.com/api?username=biswarup14&theme=dark" width="100%" />
+</p>
+
+---
+
+## ⚡ Quick Bio
+
+```text
+  ____  _                          _ 
+ | __ )(_)____      ____ _ _ __ ___| |
+ |  _ \| |_  / \ /\ / / _` | '__/ _ \ |
+ | |_) | |/ / \ V  V / (_| | | |  __/_|
+ |____/|_/___| \_/\_/ \__,_|_|  \___(_)
