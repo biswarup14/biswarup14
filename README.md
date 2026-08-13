@@ -56,14 +56,8 @@
 <p align="center">
   <img src="https://github-profile-3d-contrib.puppetmaster.zhaoll.com/api?username=biswarup14&theme=dark" width="100%" />
 </p>
+<!-- Primary -->
+<img src="https://github-readme-stats.vercel.app/api?username=biswarup14&show_icons=true&theme=tokyonight" />
 
----
-
-## ⚡ Quick Bio
-
-```text
-  ____  _                          _ 
- | __ )(_)____      ____ _ _ __ ___| |
- |  _ \| |_  / \ /\ / / _` | '__/ _ \ |
- | |_) | |/ / \ V  V / (_| | | |  __/_|
- |____/|_/___| \_/\_/ \__,_|_|  \___(_)
+<!-- Backup Instance (if primary shows a broken image) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=biswarup14&show_icons=true&theme=tokyonight" />
