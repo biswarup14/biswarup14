@@ -5,12 +5,9 @@
 
 <!-- Live Animated Typing Header -->
 
-<h1 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Biswarup+👋;Software+Engineer;Machine+Learning+%26+Distributed+Systems)](https://git.io/typing-svg)
-    
+<h1 align="center"> 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Biswarup+👋;Software+Engineer)](https://git.io/typing-svg) 
 </h1>
----
 
 ## 📊 Analytics & Metrics (Bulletproof Dynamic Badges)
 
