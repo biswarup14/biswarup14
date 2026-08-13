@@ -11,7 +11,7 @@
 
 </h1>
 
-## 📊 Analytics & Metrics (Bulletproof Dynamic Badges)
+
 
 <p align="center">
   <!-- Dynamic Public Commits Badge -->
