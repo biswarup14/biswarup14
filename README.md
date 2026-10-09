@@ -13,21 +13,7 @@
 
 
 
-<p align="center">
-  <!-- Dynamic Public Commits Badge -->
-  <img src="https://img.shields.io/github/commit-activity/m/biswarup14/biswarup14?style=for-the-badge&label=Monthly%20Commits&color=blue&logo=github" />
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/biswarup14?style=for-the-badge&color=purple&logo=github" />
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/biswarup14?style=for-the-badge&color=gold&logo=github" />
-</p>
 
-<p align="center">
-  <!-- Dynamic Activity Grid -->
-  <img src="https://ghchart.rshah.org/36BCF7/biswarup14" alt="Biswarup's Contribution Chart" width="100%" />
-</p>
-
----
 
 ## 🛠️ Tech Stack & Skills
 
